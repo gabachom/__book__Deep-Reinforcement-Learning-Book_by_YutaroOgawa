@@ -1,0 +1,3 @@
+[submodule "Deep-Reinforcement-Learning-Book"]
+	path = Deep-Reinforcement-Learning-Book
+	url = https://github.com/YutaroOgawa/Deep-Reinforcement-Learning-Book.git
